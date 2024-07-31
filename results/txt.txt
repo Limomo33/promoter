@@ -1,0 +1,804 @@
+Train on 14254 samples, validate on 6109 samples
+Epoch 1/200
+14254/14254 [==============================] - 8s 554us/step - loss: 38.6425 - softmax_loss: 38.0222 - l2_loss_loss: 2.0679 - softmax_acc: 0.7065 - val_loss: 59.4165 - val_softmax_loss: 59.2767 - val_l2_loss_loss: 0.4660 - val_softmax_acc: 0.0056
+
+Epoch 00001: val_softmax_acc improved from -inf to 0.00557, saving model to human_Rat3.h2
+Epoch 2/200
+14254/14254 [==============================] - 7s 492us/step - loss: 31.2902 - softmax_loss: 30.4021 - l2_loss_loss: 2.9602 - softmax_acc: 0.7557 - val_loss: 61.5414 - val_softmax_loss: 61.2337 - val_l2_loss_loss: 1.0259 - val_softmax_acc: 0.4326
+
+Epoch 00002: val_softmax_acc improved from 0.00557 to 0.43264, saving model to human_Rat3.h2
+Epoch 3/200
+14254/14254 [==============================] - 7s 495us/step - loss: 26.9330 - softmax_loss: 25.3501 - l2_loss_loss: 5.2762 - softmax_acc: 0.8236 - val_loss: 53.6193 - val_softmax_loss: 53.0467 - val_l2_loss_loss: 1.9087 - val_softmax_acc: 0.5862
+
+Epoch 00003: val_softmax_acc improved from 0.43264 to 0.58618, saving model to human_Rat3.h2
+Epoch 4/200
+14254/14254 [==============================] - 7s 497us/step - loss: 23.6692 - softmax_loss: 21.9065 - l2_loss_loss: 5.8756 - softmax_acc: 0.8514 - val_loss: 55.3853 - val_softmax_loss: 54.8454 - val_l2_loss_loss: 1.7997 - val_softmax_acc: 0.5818
+
+Epoch 00004: val_softmax_acc did not improve from 0.58618
+Epoch 5/200
+14254/14254 [==============================] - 7s 489us/step - loss: 21.7413 - softmax_loss: 19.8694 - l2_loss_loss: 6.2397 - softmax_acc: 0.8685 - val_loss: 46.0566 - val_softmax_loss: 45.3784 - val_l2_loss_loss: 2.2608 - val_softmax_acc: 0.6772
+
+Epoch 00005: val_softmax_acc improved from 0.58618 to 0.67720, saving model to human_Rat3.h2
+Epoch 6/200
+14254/14254 [==============================] - 7s 494us/step - loss: 20.1854 - softmax_loss: 18.3096 - l2_loss_loss: 6.2526 - softmax_acc: 0.8802 - val_loss: 49.6928 - val_softmax_loss: 48.8926 - val_l2_loss_loss: 2.6671 - val_softmax_acc: 0.6502
+
+Epoch 00006: val_softmax_acc did not improve from 0.67720
+Epoch 7/200
+14254/14254 [==============================] - 7s 493us/step - loss: 18.8992 - softmax_loss: 17.0488 - l2_loss_loss: 6.1679 - softmax_acc: 0.8906 - val_loss: 48.6483 - val_softmax_loss: 47.6948 - val_l2_loss_loss: 3.1785 - val_softmax_acc: 0.6633
+
+Epoch 00007: val_softmax_acc did not improve from 0.67720
+Epoch 8/200
+14254/14254 [==============================] - 7s 498us/step - loss: 17.5643 - softmax_loss: 15.6515 - l2_loss_loss: 6.3763 - softmax_acc: 0.9037 - val_loss: 40.3302 - val_softmax_loss: 39.2842 - val_l2_loss_loss: 3.4867 - val_softmax_acc: 0.7337
+
+Epoch 00008: val_softmax_acc improved from 0.67720 to 0.73367, saving model to human_Rat3.h2
+Epoch 9/200
+14254/14254 [==============================] - 7s 492us/step - loss: 16.8151 - softmax_loss: 14.9157 - l2_loss_loss: 6.3313 - softmax_acc: 0.9082 - val_loss: 37.9692 - val_softmax_loss: 37.0545 - val_l2_loss_loss: 3.0490 - val_softmax_acc: 0.7538
+
+Epoch 00009: val_softmax_acc improved from 0.73367 to 0.75381, saving model to human_Rat3.h2
+Epoch 10/200
+14254/14254 [==============================] - 7s 496us/step - loss: 16.1838 - softmax_loss: 14.3631 - l2_loss_loss: 6.0687 - softmax_acc: 0.9138 - val_loss: 45.2666 - val_softmax_loss: 44.3179 - val_l2_loss_loss: 3.1626 - val_softmax_acc: 0.6962
+
+Epoch 00010: val_softmax_acc did not improve from 0.75381
+Epoch 11/200
+14254/14254 [==============================] - 7s 490us/step - loss: 15.2233 - softmax_loss: 13.3793 - l2_loss_loss: 6.1467 - softmax_acc: 0.9199 - val_loss: 38.4710 - val_softmax_loss: 37.4251 - val_l2_loss_loss: 3.4863 - val_softmax_acc: 0.7514
+
+Epoch 00011: val_softmax_acc did not improve from 0.75381
+Epoch 12/200
+14254/14254 [==============================] - 7s 502us/step - loss: 14.2935 - softmax_loss: 12.4580 - l2_loss_loss: 6.1182 - softmax_acc: 0.9266 - val_loss: 35.2217 - val_softmax_loss: 34.1894 - val_l2_loss_loss: 3.4410 - val_softmax_acc: 0.7764
+
+Epoch 00012: val_softmax_acc improved from 0.75381 to 0.77640, saving model to human_Rat3.h2
+Epoch 13/200
+14254/14254 [==============================] - 7s 492us/step - loss: 13.3275 - softmax_loss: 11.4736 - l2_loss_loss: 6.1797 - softmax_acc: 0.9353 - val_loss: 33.6329 - val_softmax_loss: 32.5247 - val_l2_loss_loss: 3.6940 - val_softmax_acc: 0.7890
+
+Epoch 00013: val_softmax_acc improved from 0.77640 to 0.78900, saving model to human_Rat3.h2
+Epoch 14/200
+14254/14254 [==============================] - 7s 491us/step - loss: 12.5966 - softmax_loss: 10.7571 - l2_loss_loss: 6.1316 - softmax_acc: 0.9410 - val_loss: 37.0006 - val_softmax_loss: 36.0233 - val_l2_loss_loss: 3.2577 - val_softmax_acc: 0.7626
+
+Epoch 00014: val_softmax_acc did not improve from 0.78900
+Epoch 15/200
+14254/14254 [==============================] - 7s 491us/step - loss: 11.7025 - softmax_loss: 9.8544 - l2_loss_loss: 6.1601 - softmax_acc: 0.9469 - val_loss: 27.7547 - val_softmax_loss: 26.4061 - val_l2_loss_loss: 4.4953 - val_softmax_acc: 0.8306
+
+Epoch 00015: val_softmax_acc improved from 0.78900 to 0.83058, saving model to human_Rat3.h2
+Epoch 16/200
+14254/14254 [==============================] - 7s 486us/step - loss: 11.1217 - softmax_loss: 9.2849 - l2_loss_loss: 6.1227 - softmax_acc: 0.9484 - val_loss: 26.1413 - val_softmax_loss: 24.9977 - val_l2_loss_loss: 3.8120 - val_softmax_acc: 0.8417
+
+Epoch 00016: val_softmax_acc improved from 0.83058 to 0.84171, saving model to human_Rat3.h2
+Epoch 17/200
+14254/14254 [==============================] - 7s 485us/step - loss: 10.3148 - softmax_loss: 8.4923 - l2_loss_loss: 6.0749 - softmax_acc: 0.9554 - val_loss: 28.5446 - val_softmax_loss: 27.3573 - val_l2_loss_loss: 3.9574 - val_softmax_acc: 0.8229
+
+Epoch 00017: val_softmax_acc did not improve from 0.84171
+Epoch 18/200
+14254/14254 [==============================] - 7s 485us/step - loss: 9.8762 - softmax_loss: 8.0792 - l2_loss_loss: 5.9900 - softmax_acc: 0.9572 - val_loss: 27.3335 - val_softmax_loss: 26.1534 - val_l2_loss_loss: 3.9336 - val_softmax_acc: 0.8324
+
+Epoch 00018: val_softmax_acc did not improve from 0.84171
+Epoch 19/200
+14254/14254 [==============================] - 7s 489us/step - loss: 9.2130 - softmax_loss: 7.4324 - l2_loss_loss: 5.9354 - softmax_acc: 0.9594 - val_loss: 27.3214 - val_softmax_loss: 26.0693 - val_l2_loss_loss: 4.1738 - val_softmax_acc: 0.8319
+
+Epoch 00019: val_softmax_acc did not improve from 0.84171
+Epoch 20/200
+14254/14254 [==============================] - 7s 486us/step - loss: 8.3370 - softmax_loss: 6.5472 - l2_loss_loss: 5.9660 - softmax_acc: 0.9669 - val_loss: 21.7477 - val_softmax_loss: 20.4978 - val_l2_loss_loss: 4.1662 - val_softmax_acc: 0.8718
+
+Epoch 00020: val_softmax_acc improved from 0.84171 to 0.87183, saving model to human_Rat3.h2
+Epoch 21/200
+14254/14254 [==============================] - 7s 484us/step - loss: 7.8210 - softmax_loss: 6.0452 - l2_loss_loss: 5.9193 - softmax_acc: 0.9723 - val_loss: 27.1797 - val_softmax_loss: 25.9082 - val_l2_loss_loss: 4.2385 - val_softmax_acc: 0.8343
+
+Epoch 00021: val_softmax_acc did not improve from 0.87183
+Epoch 22/200
+14254/14254 [==============================] - 7s 485us/step - loss: 7.3827 - softmax_loss: 5.6261 - l2_loss_loss: 5.8551 - softmax_acc: 0.9728 - val_loss: 28.0412 - val_softmax_loss: 26.9701 - val_l2_loss_loss: 3.5702 - val_softmax_acc: 0.8244
+
+Epoch 00022: val_softmax_acc did not improve from 0.87183
+Epoch 23/200
+14254/14254 [==============================] - 7s 493us/step - loss: 6.7535 - softmax_loss: 5.0180 - l2_loss_loss: 5.7849 - softmax_acc: 0.9771 - val_loss: 27.1376 - val_softmax_loss: 26.0003 - val_l2_loss_loss: 3.7910 - val_softmax_acc: 0.8322
+
+Epoch 00023: val_softmax_acc did not improve from 0.87183
+Epoch 24/200
+14254/14254 [==============================] - 7s 492us/step - loss: 6.2702 - softmax_loss: 4.5971 - l2_loss_loss: 5.5768 - softmax_acc: 0.9804 - val_loss: 20.3510 - val_softmax_loss: 18.9402 - val_l2_loss_loss: 4.7026 - val_softmax_acc: 0.8817
+
+Epoch 00024: val_softmax_acc improved from 0.87183 to 0.88165, saving model to human_Rat3.h2
+Epoch 25/200
+14254/14254 [==============================] - 7s 489us/step - loss: 5.9293 - softmax_loss: 4.2674 - l2_loss_loss: 5.5399 - softmax_acc: 0.9812 - val_loss: 18.8422 - val_softmax_loss: 17.5436 - val_l2_loss_loss: 4.3286 - val_softmax_acc: 0.8903
+
+Epoch 00025: val_softmax_acc improved from 0.88165 to 0.89033, saving model to human_Rat3.h2
+Epoch 26/200
+14254/14254 [==============================] - 7s 490us/step - loss: 5.6187 - softmax_loss: 4.0056 - l2_loss_loss: 5.3771 - softmax_acc: 0.9851 - val_loss: 18.0082 - val_softmax_loss: 16.8456 - val_l2_loss_loss: 3.8754 - val_softmax_acc: 0.8941
+
+Epoch 00026: val_softmax_acc improved from 0.89033 to 0.89409, saving model to human_Rat3.h2
+Epoch 27/200
+14254/14254 [==============================] - 7s 484us/step - loss: 5.2435 - softmax_loss: 3.6396 - l2_loss_loss: 5.3462 - softmax_acc: 0.9860 - val_loss: 21.2365 - val_softmax_loss: 20.0142 - val_l2_loss_loss: 4.0744 - val_softmax_acc: 0.8743
+
+Epoch 00027: val_softmax_acc did not improve from 0.89409
+Epoch 28/200
+14254/14254 [==============================] - 7s 486us/step - loss: 4.9515 - softmax_loss: 3.4056 - l2_loss_loss: 5.1529 - softmax_acc: 0.9874 - val_loss: 17.2015 - val_softmax_loss: 15.7920 - val_l2_loss_loss: 4.6982 - val_softmax_acc: 0.9016
+
+Epoch 00028: val_softmax_acc improved from 0.89409 to 0.90162, saving model to human_Rat3.h2
+Epoch 29/200
+14254/14254 [==============================] - 7s 484us/step - loss: 4.6280 - softmax_loss: 3.0937 - l2_loss_loss: 5.1142 - softmax_acc: 0.9892 - val_loss: 17.5209 - val_softmax_loss: 16.2456 - val_l2_loss_loss: 4.2509 - val_softmax_acc: 0.8995
+
+Epoch 00029: val_softmax_acc did not improve from 0.90162
+Epoch 30/200
+14254/14254 [==============================] - 7s 485us/step - loss: 4.3699 - softmax_loss: 2.8971 - l2_loss_loss: 4.9095 - softmax_acc: 0.9901 - val_loss: 19.2674 - val_softmax_loss: 18.0938 - val_l2_loss_loss: 3.9119 - val_softmax_acc: 0.8859
+
+Epoch 00030: val_softmax_acc did not improve from 0.90162
+Epoch 31/200
+14254/14254 [==============================] - 7s 486us/step - loss: 4.1883 - softmax_loss: 2.7646 - l2_loss_loss: 4.7458 - softmax_acc: 0.9917 - val_loss: 16.0440 - val_softmax_loss: 14.7535 - val_l2_loss_loss: 4.3019 - val_softmax_acc: 0.9070
+
+Epoch 00031: val_softmax_acc improved from 0.90162 to 0.90702, saving model to human_Rat3.h2
+Epoch 32/200
+14254/14254 [==============================] - 7s 492us/step - loss: 3.9985 - softmax_loss: 2.6070 - l2_loss_loss: 4.6384 - softmax_acc: 0.9915 - val_loss: 16.7542 - val_softmax_loss: 15.5404 - val_l2_loss_loss: 4.0460 - val_softmax_acc: 0.9026
+
+Epoch 00032: val_softmax_acc did not improve from 0.90702
+Epoch 33/200
+14254/14254 [==============================] - 7s 487us/step - loss: 3.7105 - softmax_loss: 2.3375 - l2_loss_loss: 4.5765 - softmax_acc: 0.9934 - val_loss: 14.4856 - val_softmax_loss: 13.2208 - val_l2_loss_loss: 4.2158 - val_softmax_acc: 0.9152
+
+Epoch 00033: val_softmax_acc improved from 0.90702 to 0.91521, saving model to human_Rat3.h2
+Epoch 34/200
+14254/14254 [==============================] - 7s 488us/step - loss: 3.5438 - softmax_loss: 2.2077 - l2_loss_loss: 4.4537 - softmax_acc: 0.9939 - val_loss: 16.9535 - val_softmax_loss: 15.7512 - val_l2_loss_loss: 4.0076 - val_softmax_acc: 0.9008
+
+Epoch 00034: val_softmax_acc did not improve from 0.91521
+Epoch 35/200
+14254/14254 [==============================] - 7s 490us/step - loss: 3.3803 - softmax_loss: 2.0876 - l2_loss_loss: 4.3090 - softmax_acc: 0.9949 - val_loss: 13.1810 - val_softmax_loss: 11.9007 - val_l2_loss_loss: 4.2678 - val_softmax_acc: 0.9258
+
+Epoch 00035: val_softmax_acc improved from 0.91521 to 0.92585, saving model to human_Rat3.h2
+Epoch 36/200
+14254/14254 [==============================] - 7s 490us/step - loss: 3.1090 - softmax_loss: 1.8514 - l2_loss_loss: 4.1918 - softmax_acc: 0.9965 - val_loss: 10.7396 - val_softmax_loss: 9.5509 - val_l2_loss_loss: 3.9622 - val_softmax_acc: 0.9412
+
+Epoch 00036: val_softmax_acc improved from 0.92585 to 0.94123, saving model to human_Rat3.h2
+Epoch 37/200
+14254/14254 [==============================] - 7s 485us/step - loss: 2.9647 - softmax_loss: 1.7371 - l2_loss_loss: 4.0920 - softmax_acc: 0.9968 - val_loss: 11.6347 - val_softmax_loss: 10.3981 - val_l2_loss_loss: 4.1221 - val_softmax_acc: 0.9355
+
+Epoch 00037: val_softmax_acc did not improve from 0.94123
+Epoch 38/200
+14254/14254 [==============================] - 7s 494us/step - loss: 2.9184 - softmax_loss: 1.7330 - l2_loss_loss: 3.9512 - softmax_acc: 0.9963 - val_loss: 18.1952 - val_softmax_loss: 17.2032 - val_l2_loss_loss: 3.3067 - val_softmax_acc: 0.8890
+
+Epoch 00038: val_softmax_acc did not improve from 0.94123
+Epoch 39/200
+14254/14254 [==============================] - 7s 492us/step - loss: 2.7920 - softmax_loss: 1.6475 - l2_loss_loss: 3.8151 - softmax_acc: 0.9961 - val_loss: 11.7141 - val_softmax_loss: 10.5770 - val_l2_loss_loss: 3.7904 - val_softmax_acc: 0.9337
+
+Epoch 00039: val_softmax_acc did not improve from 0.94123
+Epoch 40/200
+14254/14254 [==============================] - 7s 491us/step - loss: 2.6695 - softmax_loss: 1.5510 - l2_loss_loss: 3.7284 - softmax_acc: 0.9968 - val_loss: 12.5219 - val_softmax_loss: 11.4177 - val_l2_loss_loss: 3.6806 - val_softmax_acc: 0.9291
+
+Epoch 00040: val_softmax_acc did not improve from 0.94123
+Epoch 41/200
+14254/14254 [==============================] - 8s 527us/step - loss: 2.4371 - softmax_loss: 1.3454 - l2_loss_loss: 3.6392 - softmax_acc: 0.9982 - val_loss: 11.7957 - val_softmax_loss: 10.7857 - val_l2_loss_loss: 3.3669 - val_softmax_acc: 0.9335
+
+Epoch 00041: val_softmax_acc did not improve from 0.94123
+Epoch 42/200
+14254/14254 [==============================] - 7s 526us/step - loss: 2.2864 - softmax_loss: 1.2374 - l2_loss_loss: 3.4966 - softmax_acc: 0.9987 - val_loss: 18.1533 - val_softmax_loss: 17.3204 - val_l2_loss_loss: 2.7766 - val_softmax_acc: 0.8892
+
+Epoch 00042: val_softmax_acc did not improve from 0.94123
+Epoch 43/200
+14254/14254 [==============================] - 7s 490us/step - loss: 2.2426 - softmax_loss: 1.2239 - l2_loss_loss: 3.3954 - softmax_acc: 0.9978 - val_loss: 11.1226 - val_softmax_loss: 10.0865 - val_l2_loss_loss: 3.4538 - val_softmax_acc: 0.9388
+
+Epoch 00043: val_softmax_acc did not improve from 0.94123
+Epoch 44/200
+14254/14254 [==============================] - 7s 484us/step - loss: 2.1064 - softmax_loss: 1.1265 - l2_loss_loss: 3.2664 - softmax_acc: 0.9988 - val_loss: 11.9105 - val_softmax_loss: 10.9196 - val_l2_loss_loss: 3.3028 - val_softmax_acc: 0.9314
+
+Epoch 00044: val_softmax_acc did not improve from 0.94123
+Epoch 45/200
+14254/14254 [==============================] - 7s 486us/step - loss: 2.1775 - softmax_loss: 1.2224 - l2_loss_loss: 3.1838 - softmax_acc: 0.9979 - val_loss: 9.6729 - val_softmax_loss: 8.6628 - val_l2_loss_loss: 3.3669 - val_softmax_acc: 0.9470
+
+Epoch 00045: val_softmax_acc improved from 0.94123 to 0.94696, saving model to human_Rat3.h2
+Epoch 46/200
+14254/14254 [==============================] - 7s 484us/step - loss: 1.9597 - softmax_loss: 1.0334 - l2_loss_loss: 3.0877 - softmax_acc: 0.9985 - val_loss: 11.3025 - val_softmax_loss: 10.3815 - val_l2_loss_loss: 3.0701 - val_softmax_acc: 0.9365
+
+Epoch 00046: val_softmax_acc did not improve from 0.94696
+Epoch 47/200
+14254/14254 [==============================] - 7s 488us/step - loss: 1.8852 - softmax_loss: 0.9962 - l2_loss_loss: 2.9633 - softmax_acc: 0.9989 - val_loss: 12.0942 - val_softmax_loss: 11.2056 - val_l2_loss_loss: 2.9620 - val_softmax_acc: 0.9306
+
+Epoch 00047: val_softmax_acc did not improve from 0.94696
+Epoch 48/200
+14254/14254 [==============================] - 7s 487us/step - loss: 1.7768 - softmax_loss: 0.9127 - l2_loss_loss: 2.8805 - softmax_acc: 0.9989 - val_loss: 9.9450 - val_softmax_loss: 9.0832 - val_l2_loss_loss: 2.8728 - val_softmax_acc: 0.9453
+
+Epoch 00048: val_softmax_acc did not improve from 0.94696
+Epoch 49/200
+14254/14254 [==============================] - 7s 486us/step - loss: 1.6753 - softmax_loss: 0.8466 - l2_loss_loss: 2.7624 - softmax_acc: 0.9994 - val_loss: 10.5385 - val_softmax_loss: 9.7431 - val_l2_loss_loss: 2.6511 - val_softmax_acc: 0.9398
+
+Epoch 00049: val_softmax_acc did not improve from 0.94696
+Epoch 50/200
+14254/14254 [==============================] - 7s 484us/step - loss: 1.6043 - softmax_loss: 0.8067 - l2_loss_loss: 2.6588 - softmax_acc: 0.9994 - val_loss: 8.5007 - val_softmax_loss: 7.6473 - val_l2_loss_loss: 2.8447 - val_softmax_acc: 0.9550
+
+Epoch 00050: val_softmax_acc improved from 0.94696 to 0.95498, saving model to human_Rat3.h2
+Epoch 51/200
+14254/14254 [==============================] - 7s 489us/step - loss: 1.5249 - softmax_loss: 0.7501 - l2_loss_loss: 2.5827 - softmax_acc: 0.9997 - val_loss: 6.2984 - val_softmax_loss: 5.3886 - val_l2_loss_loss: 3.0325 - val_softmax_acc: 0.9700
+
+Epoch 00051: val_softmax_acc improved from 0.95498 to 0.97004, saving model to human_Rat3.h2
+Epoch 52/200
+14254/14254 [==============================] - 7s 486us/step - loss: 1.5059 - softmax_loss: 0.7482 - l2_loss_loss: 2.5255 - softmax_acc: 0.9994 - val_loss: 7.6817 - val_softmax_loss: 6.8010 - val_l2_loss_loss: 2.9356 - val_softmax_acc: 0.9599
+
+Epoch 00052: val_softmax_acc did not improve from 0.97004
+Epoch 53/200
+14254/14254 [==============================] - 7s 485us/step - loss: 1.4186 - softmax_loss: 0.6903 - l2_loss_loss: 2.4274 - softmax_acc: 0.9996 - val_loss: 7.2874 - val_softmax_loss: 6.4438 - val_l2_loss_loss: 2.8118 - val_softmax_acc: 0.9620
+
+Epoch 00053: val_softmax_acc did not improve from 0.97004
+Epoch 54/200
+14254/14254 [==============================] - 7s 488us/step - loss: 1.4052 - softmax_loss: 0.7129 - l2_loss_loss: 2.3079 - softmax_acc: 0.9994 - val_loss: 8.9325 - val_softmax_loss: 8.2425 - val_l2_loss_loss: 2.2998 - val_softmax_acc: 0.9504
+
+Epoch 00054: val_softmax_acc did not improve from 0.97004
+Epoch 55/200
+14254/14254 [==============================] - 7s 484us/step - loss: 1.2919 - softmax_loss: 0.6210 - l2_loss_loss: 2.2366 - softmax_acc: 0.9994 - val_loss: 7.2132 - val_softmax_loss: 6.5237 - val_l2_loss_loss: 2.2986 - val_softmax_acc: 0.9609
+
+Epoch 00055: val_softmax_acc did not improve from 0.97004
+Epoch 56/200
+14254/14254 [==============================] - 7s 482us/step - loss: 1.2494 - softmax_loss: 0.6049 - l2_loss_loss: 2.1483 - softmax_acc: 0.9996 - val_loss: 6.5103 - val_softmax_loss: 5.7360 - val_l2_loss_loss: 2.5811 - val_softmax_acc: 0.9687
+
+Epoch 00056: val_softmax_acc did not improve from 0.97004
+Epoch 57/200
+14254/14254 [==============================] - 7s 483us/step - loss: 1.2387 - softmax_loss: 0.6237 - l2_loss_loss: 2.0501 - softmax_acc: 0.9994 - val_loss: 7.6725 - val_softmax_loss: 6.9716 - val_l2_loss_loss: 2.3364 - val_softmax_acc: 0.9587
+
+Epoch 00057: val_softmax_acc did not improve from 0.97004
+Epoch 58/200
+14254/14254 [==============================] - 7s 485us/step - loss: 1.1418 - softmax_loss: 0.5398 - l2_loss_loss: 2.0068 - softmax_acc: 0.9998 - val_loss: 6.4100 - val_softmax_loss: 5.7258 - val_l2_loss_loss: 2.2807 - val_softmax_acc: 0.9676
+
+Epoch 00058: val_softmax_acc did not improve from 0.97004
+Epoch 59/200
+14254/14254 [==============================] - 7s 484us/step - loss: 1.0962 - softmax_loss: 0.5183 - l2_loss_loss: 1.9264 - softmax_acc: 0.9997 - val_loss: 5.5890 - val_softmax_loss: 4.9185 - val_l2_loss_loss: 2.2351 - val_softmax_acc: 0.9735
+
+Epoch 00059: val_softmax_acc improved from 0.97004 to 0.97348, saving model to human_Rat3.h2
+Epoch 60/200
+14254/14254 [==============================] - 7s 482us/step - loss: 1.0864 - softmax_loss: 0.5316 - l2_loss_loss: 1.8491 - softmax_acc: 0.9998 - val_loss: 6.6847 - val_softmax_loss: 6.0405 - val_l2_loss_loss: 2.1472 - val_softmax_acc: 0.9661
+
+Epoch 00060: val_softmax_acc did not improve from 0.97348
+Epoch 61/200
+14254/14254 [==============================] - 7s 486us/step - loss: 1.0247 - softmax_loss: 0.4861 - l2_loss_loss: 1.7953 - softmax_acc: 0.9996 - val_loss: 4.8340 - val_softmax_loss: 4.1200 - val_l2_loss_loss: 2.3800 - val_softmax_acc: 0.9777
+
+Epoch 00061: val_softmax_acc improved from 0.97348 to 0.97774, saving model to human_Rat3.h2
+Epoch 62/200
+14254/14254 [==============================] - 7s 495us/step - loss: 1.0041 - softmax_loss: 0.4815 - l2_loss_loss: 1.7420 - softmax_acc: 0.9997 - val_loss: 8.4551 - val_softmax_loss: 7.9376 - val_l2_loss_loss: 1.7249 - val_softmax_acc: 0.9529
+
+Epoch 00062: val_softmax_acc did not improve from 0.97774
+Epoch 63/200
+14254/14254 [==============================] - 7s 492us/step - loss: 0.9586 - softmax_loss: 0.4615 - l2_loss_loss: 1.6569 - softmax_acc: 0.9995 - val_loss: 4.9802 - val_softmax_loss: 4.3604 - val_l2_loss_loss: 2.0661 - val_softmax_acc: 0.9759
+
+Epoch 00063: val_softmax_acc did not improve from 0.97774
+Epoch 64/200
+14254/14254 [==============================] - 7s 507us/step - loss: 0.9171 - softmax_loss: 0.4321 - l2_loss_loss: 1.6168 - softmax_acc: 0.9999 - val_loss: 5.9706 - val_softmax_loss: 5.4432 - val_l2_loss_loss: 1.7583 - val_softmax_acc: 0.9699
+
+Epoch 00064: val_softmax_acc did not improve from 0.97774
+Epoch 65/200
+14254/14254 [==============================] - 7s 506us/step - loss: 0.8891 - softmax_loss: 0.4357 - l2_loss_loss: 1.5112 - softmax_acc: 0.9995 - val_loss: 8.5429 - val_softmax_loss: 8.0797 - val_l2_loss_loss: 1.5440 - val_softmax_acc: 0.9519
+
+Epoch 00065: val_softmax_acc did not improve from 0.97774
+Epoch 66/200
+14254/14254 [==============================] - 7s 488us/step - loss: 0.8394 - softmax_loss: 0.3949 - l2_loss_loss: 1.4816 - softmax_acc: 0.9997 - val_loss: 6.4516 - val_softmax_loss: 5.9683 - val_l2_loss_loss: 1.6108 - val_softmax_acc: 0.9661
+
+Epoch 00066: val_softmax_acc did not improve from 0.97774
+Epoch 67/200
+14254/14254 [==============================] - 7s 499us/step - loss: 0.8009 - softmax_loss: 0.3740 - l2_loss_loss: 1.4230 - softmax_acc: 0.9999 - val_loss: 5.2530 - val_softmax_loss: 4.7640 - val_l2_loss_loss: 1.6301 - val_softmax_acc: 0.9741
+
+Epoch 00067: val_softmax_acc did not improve from 0.97774
+Epoch 68/200
+14254/14254 [==============================] - 7s 496us/step - loss: 0.7584 - softmax_loss: 0.3521 - l2_loss_loss: 1.3544 - softmax_acc: 0.9999 - val_loss: 6.9046 - val_softmax_loss: 6.4744 - val_l2_loss_loss: 1.4340 - val_softmax_acc: 0.9630
+
+Epoch 00068: val_softmax_acc did not improve from 0.97774
+Epoch 69/200
+14254/14254 [==============================] - 7s 488us/step - loss: 0.7514 - softmax_loss: 0.3598 - l2_loss_loss: 1.3054 - softmax_acc: 0.9999 - val_loss: 5.6884 - val_softmax_loss: 5.2333 - val_l2_loss_loss: 1.5170 - val_softmax_acc: 0.9702
+
+Epoch 00069: val_softmax_acc did not improve from 0.97774
+Epoch 70/200
+14254/14254 [==============================] - 7s 494us/step - loss: 0.7112 - softmax_loss: 0.3370 - l2_loss_loss: 1.2473 - softmax_acc: 0.9999 - val_loss: 5.3809 - val_softmax_loss: 4.9526 - val_l2_loss_loss: 1.4278 - val_softmax_acc: 0.9723
+
+Epoch 00070: val_softmax_acc did not improve from 0.97774
+Epoch 71/200
+14254/14254 [==============================] - 7s 485us/step - loss: 0.6788 - softmax_loss: 0.3167 - l2_loss_loss: 1.2072 - softmax_acc: 0.9999 - val_loss: 3.2366 - val_softmax_loss: 2.7659 - val_l2_loss_loss: 1.5690 - val_softmax_acc: 0.9861
+
+Epoch 00071: val_softmax_acc improved from 0.97774 to 0.98609, saving model to human_Rat3.h2
+Epoch 72/200
+14254/14254 [==============================] - 7s 489us/step - loss: 0.6681 - softmax_loss: 0.3114 - l2_loss_loss: 1.1888 - softmax_acc: 0.9999 - val_loss: 3.7435 - val_softmax_loss: 3.2851 - val_l2_loss_loss: 1.5280 - val_softmax_acc: 0.9833
+
+Epoch 00072: val_softmax_acc did not improve from 0.98609
+Epoch 73/200
+14254/14254 [==============================] - 7s 494us/step - loss: 0.6225 - softmax_loss: 0.2906 - l2_loss_loss: 1.1063 - softmax_acc: 0.9999 - val_loss: 6.1050 - val_softmax_loss: 5.7259 - val_l2_loss_loss: 1.2639 - val_softmax_acc: 0.9682
+
+Epoch 00073: val_softmax_acc did not improve from 0.98609
+Epoch 74/200
+14254/14254 [==============================] - 7s 496us/step - loss: 0.5843 - softmax_loss: 0.2667 - l2_loss_loss: 1.0586 - softmax_acc: 0.9999 - val_loss: 3.5751 - val_softmax_loss: 3.1348 - val_l2_loss_loss: 1.4678 - val_softmax_acc: 0.9836
+
+Epoch 00074: val_softmax_acc did not improve from 0.98609
+Epoch 75/200
+14254/14254 [==============================] - 7s 487us/step - loss: 0.5628 - softmax_loss: 0.2577 - l2_loss_loss: 1.0170 - softmax_acc: 0.9999 - val_loss: 3.6467 - val_softmax_loss: 3.2339 - val_l2_loss_loss: 1.3759 - val_softmax_acc: 0.9830
+
+Epoch 00075: val_softmax_acc did not improve from 0.98609
+Epoch 76/200
+14254/14254 [==============================] - 7s 497us/step - loss: 0.5555 - softmax_loss: 0.2599 - l2_loss_loss: 0.9852 - softmax_acc: 0.9999 - val_loss: 6.2452 - val_softmax_loss: 5.9544 - val_l2_loss_loss: 0.9690 - val_softmax_acc: 0.9674
+
+Epoch 00076: val_softmax_acc did not improve from 0.98609
+Epoch 77/200
+14254/14254 [==============================] - 7s 485us/step - loss: 0.5323 - softmax_loss: 0.2502 - l2_loss_loss: 0.9401 - softmax_acc: 0.9999 - val_loss: 4.0623 - val_softmax_loss: 3.6988 - val_l2_loss_loss: 1.2117 - val_softmax_acc: 0.9813
+
+Epoch 00077: val_softmax_acc did not improve from 0.98609
+Epoch 78/200
+14254/14254 [==============================] - 7s 486us/step - loss: 0.5398 - softmax_loss: 0.2650 - l2_loss_loss: 0.9160 - softmax_acc: 0.9998 - val_loss: 3.1738 - val_softmax_loss: 2.8104 - val_l2_loss_loss: 1.2111 - val_softmax_acc: 0.9848
+
+Epoch 00078: val_softmax_acc did not improve from 0.98609
+Epoch 79/200
+14254/14254 [==============================] - 7s 495us/step - loss: 0.4943 - softmax_loss: 0.2324 - l2_loss_loss: 0.8730 - softmax_acc: 0.9999 - val_loss: 3.6509 - val_softmax_loss: 3.2933 - val_l2_loss_loss: 1.1922 - val_softmax_acc: 0.9822
+
+Epoch 00079: val_softmax_acc did not improve from 0.98609
+Epoch 80/200
+14254/14254 [==============================] - 7s 488us/step - loss: 0.4613 - softmax_loss: 0.2122 - l2_loss_loss: 0.8301 - softmax_acc: 0.9999 - val_loss: 4.5699 - val_softmax_loss: 4.2401 - val_l2_loss_loss: 1.0994 - val_softmax_acc: 0.9772
+
+Epoch 00080: val_softmax_acc did not improve from 0.98609
+Epoch 81/200
+14254/14254 [==============================] - 7s 483us/step - loss: 0.4343 - softmax_loss: 0.1959 - l2_loss_loss: 0.7946 - softmax_acc: 0.9999 - val_loss: 3.2191 - val_softmax_loss: 2.8730 - val_l2_loss_loss: 1.1534 - val_softmax_acc: 0.9851
+
+Epoch 00081: val_softmax_acc did not improve from 0.98609
+Epoch 82/200
+14254/14254 [==============================] - 7s 491us/step - loss: 0.4363 - softmax_loss: 0.2103 - l2_loss_loss: 0.7533 - softmax_acc: 0.9999 - val_loss: 3.9382 - val_softmax_loss: 3.6296 - val_l2_loss_loss: 1.0286 - val_softmax_acc: 0.9813
+
+Epoch 00082: val_softmax_acc did not improve from 0.98609
+Epoch 83/200
+14254/14254 [==============================] - 7s 489us/step - loss: 0.4015 - softmax_loss: 0.1842 - l2_loss_loss: 0.7244 - softmax_acc: 0.9999 - val_loss: 4.1985 - val_softmax_loss: 3.9395 - val_l2_loss_loss: 0.8633 - val_softmax_acc: 0.9799
+
+Epoch 00083: val_softmax_acc did not improve from 0.98609
+Epoch 84/200
+14254/14254 [==============================] - 7s 488us/step - loss: 0.4005 - softmax_loss: 0.1903 - l2_loss_loss: 0.7006 - softmax_acc: 0.9999 - val_loss: 3.2015 - val_softmax_loss: 2.9344 - val_l2_loss_loss: 0.8903 - val_softmax_acc: 0.9846
+
+Epoch 00084: val_softmax_acc did not improve from 0.98609
+Epoch 85/200
+14254/14254 [==============================] - 7s 485us/step - loss: 0.3667 - softmax_loss: 0.1696 - l2_loss_loss: 0.6570 - softmax_acc: 0.9999 - val_loss: 3.4698 - val_softmax_loss: 3.2266 - val_l2_loss_loss: 0.8108 - val_softmax_acc: 0.9823
+
+Epoch 00085: val_softmax_acc did not improve from 0.98609
+Epoch 86/200
+14254/14254 [==============================] - 7s 485us/step - loss: 0.3882 - softmax_loss: 0.1932 - l2_loss_loss: 0.6501 - softmax_acc: 0.9996 - val_loss: 3.8815 - val_softmax_loss: 3.6396 - val_l2_loss_loss: 0.8065 - val_softmax_acc: 0.9805
+
+Epoch 00086: val_softmax_acc did not improve from 0.98609
+Epoch 87/200
+14254/14254 [==============================] - 7s 485us/step - loss: 0.3711 - softmax_loss: 0.1786 - l2_loss_loss: 0.6418 - softmax_acc: 0.9999 - val_loss: 4.7880 - val_softmax_loss: 4.5736 - val_l2_loss_loss: 0.7146 - val_softmax_acc: 0.9756
+
+Epoch 00087: val_softmax_acc did not improve from 0.98609
+Epoch 88/200
+14254/14254 [==============================] - 7s 489us/step - loss: 0.3473 - softmax_loss: 0.1681 - l2_loss_loss: 0.5973 - softmax_acc: 0.9999 - val_loss: 2.2114 - val_softmax_loss: 1.9553 - val_l2_loss_loss: 0.8537 - val_softmax_acc: 0.9899
+
+Epoch 00088: val_softmax_acc improved from 0.98609 to 0.98985, saving model to human_Rat3.h2
+Epoch 89/200
+14254/14254 [==============================] - 7s 488us/step - loss: 0.3155 - softmax_loss: 0.1447 - l2_loss_loss: 0.5691 - softmax_acc: 0.9999 - val_loss: 2.6253 - val_softmax_loss: 2.3993 - val_l2_loss_loss: 0.7535 - val_softmax_acc: 0.9876
+
+Epoch 00089: val_softmax_acc did not improve from 0.98985
+Epoch 90/200
+14254/14254 [==============================] - 7s 487us/step - loss: 0.3254 - softmax_loss: 0.1596 - l2_loss_loss: 0.5527 - softmax_acc: 0.9999 - val_loss: 2.7035 - val_softmax_loss: 2.4875 - val_l2_loss_loss: 0.7200 - val_softmax_acc: 0.9874
+
+Epoch 00090: val_softmax_acc did not improve from 0.98985
+Epoch 91/200
+14254/14254 [==============================] - 7s 488us/step - loss: 0.2965 - softmax_loss: 0.1400 - l2_loss_loss: 0.5217 - softmax_acc: 0.9999 - val_loss: 3.2815 - val_softmax_loss: 3.0824 - val_l2_loss_loss: 0.6637 - val_softmax_acc: 0.9831
+
+Epoch 00091: val_softmax_acc did not improve from 0.98985
+Epoch 92/200
+14254/14254 [==============================] - 7s 485us/step - loss: 0.2931 - softmax_loss: 0.1399 - l2_loss_loss: 0.5108 - softmax_acc: 0.9999 - val_loss: 2.8443 - val_softmax_loss: 2.6471 - val_l2_loss_loss: 0.6572 - val_softmax_acc: 0.9861
+
+Epoch 00092: val_softmax_acc did not improve from 0.98985
+Epoch 93/200
+14254/14254 [==============================] - 7s 488us/step - loss: 0.2769 - softmax_loss: 0.1344 - l2_loss_loss: 0.4749 - softmax_acc: 0.9999 - val_loss: 2.3888 - val_softmax_loss: 2.1772 - val_l2_loss_loss: 0.7054 - val_softmax_acc: 0.9894
+
+Epoch 00093: val_softmax_acc did not improve from 0.98985
+Epoch 94/200
+14254/14254 [==============================] - 7s 487us/step - loss: 0.2673 - softmax_loss: 0.1261 - l2_loss_loss: 0.4705 - softmax_acc: 0.9999 - val_loss: 3.0145 - val_softmax_loss: 2.8330 - val_l2_loss_loss: 0.6050 - val_softmax_acc: 0.9851
+
+Epoch 00094: val_softmax_acc did not improve from 0.98985
+Epoch 95/200
+14254/14254 [==============================] - 7s 489us/step - loss: 0.2703 - softmax_loss: 0.1344 - l2_loss_loss: 0.4532 - softmax_acc: 0.9999 - val_loss: 1.2667 - val_softmax_loss: 1.0296 - val_l2_loss_loss: 0.7901 - val_softmax_acc: 0.9948
+
+Epoch 00095: val_softmax_acc improved from 0.98985 to 0.99476, saving model to human_Rat3.h2
+Epoch 96/200
+14254/14254 [==============================] - 7s 486us/step - loss: 0.2421 - softmax_loss: 0.1109 - l2_loss_loss: 0.4375 - softmax_acc: 0.9999 - val_loss: 2.9770 - val_softmax_loss: 2.8135 - val_l2_loss_loss: 0.5450 - val_softmax_acc: 0.9849
+
+Epoch 00096: val_softmax_acc did not improve from 0.99476
+Epoch 97/200
+14254/14254 [==============================] - 7s 492us/step - loss: 0.2341 - softmax_loss: 0.1119 - l2_loss_loss: 0.4075 - softmax_acc: 0.9999 - val_loss: 2.2307 - val_softmax_loss: 2.0518 - val_l2_loss_loss: 0.5961 - val_softmax_acc: 0.9899
+
+Epoch 00097: val_softmax_acc did not improve from 0.99476
+Epoch 98/200
+14254/14254 [==============================] - 7s 496us/step - loss: 0.2266 - softmax_loss: 0.1093 - l2_loss_loss: 0.3912 - softmax_acc: 0.9999 - val_loss: 1.2254 - val_softmax_loss: 1.0061 - val_l2_loss_loss: 0.7307 - val_softmax_acc: 0.9954
+
+Epoch 00098: val_softmax_acc improved from 0.99476 to 0.99542, saving model to human_Rat3.h2
+Epoch 99/200
+14254/14254 [==============================] - 7s 492us/step - loss: 0.2127 - softmax_loss: 0.0989 - l2_loss_loss: 0.3792 - softmax_acc: 0.9999 - val_loss: 3.7458 - val_softmax_loss: 3.6012 - val_l2_loss_loss: 0.4821 - val_softmax_acc: 0.9799
+
+Epoch 00099: val_softmax_acc did not improve from 0.99542
+Epoch 100/200
+14254/14254 [==============================] - 7s 525us/step - loss: 0.2081 - softmax_loss: 0.0973 - l2_loss_loss: 0.3695 - softmax_acc: 0.9999 - val_loss: 2.6434 - val_softmax_loss: 2.4933 - val_l2_loss_loss: 0.5001 - val_softmax_acc: 0.9874
+
+Epoch 00100: val_softmax_acc did not improve from 0.99542
+Epoch 101/200
+14254/14254 [==============================] - 7s 507us/step - loss: 0.1954 - softmax_loss: 0.0891 - l2_loss_loss: 0.3542 - softmax_acc: 0.9999 - val_loss: 2.3494 - val_softmax_loss: 2.2110 - val_l2_loss_loss: 0.4614 - val_softmax_acc: 0.9897
+
+Epoch 00101: val_softmax_acc did not improve from 0.99542
+Epoch 102/200
+14254/14254 [==============================] - 7s 486us/step - loss: 0.1964 - softmax_loss: 0.0945 - l2_loss_loss: 0.3395 - softmax_acc: 0.9999 - val_loss: 2.5722 - val_softmax_loss: 2.4263 - val_l2_loss_loss: 0.4863 - val_softmax_acc: 0.9876
+
+Epoch 00102: val_softmax_acc did not improve from 0.99542
+Epoch 103/200
+14254/14254 [==============================] - 7s 499us/step - loss: 0.1964 - softmax_loss: 0.0939 - l2_loss_loss: 0.3417 - softmax_acc: 0.9999 - val_loss: 2.1121 - val_softmax_loss: 1.9774 - val_l2_loss_loss: 0.4489 - val_softmax_acc: 0.9899
+
+Epoch 00103: val_softmax_acc did not improve from 0.99542
+Epoch 104/200
+14254/14254 [==============================] - 7s 484us/step - loss: 0.1907 - softmax_loss: 0.0940 - l2_loss_loss: 0.3223 - softmax_acc: 0.9999 - val_loss: 2.5966 - val_softmax_loss: 2.4700 - val_l2_loss_loss: 0.4221 - val_softmax_acc: 0.9874
+
+Epoch 00104: val_softmax_acc did not improve from 0.99542
+Epoch 105/200
+14254/14254 [==============================] - 7s 494us/step - loss: 0.1826 - softmax_loss: 0.0897 - l2_loss_loss: 0.3096 - softmax_acc: 0.9999 - val_loss: 1.2272 - val_softmax_loss: 1.0792 - val_l2_loss_loss: 0.4933 - val_softmax_acc: 0.9948
+
+Epoch 00105: val_softmax_acc did not improve from 0.99542
+Epoch 106/200
+14254/14254 [==============================] - 7s 481us/step - loss: 0.1642 - softmax_loss: 0.0781 - l2_loss_loss: 0.2869 - softmax_acc: 0.9999 - val_loss: 0.9012 - val_softmax_loss: 0.7367 - val_l2_loss_loss: 0.5482 - val_softmax_acc: 0.9969
+
+Epoch 00106: val_softmax_acc improved from 0.99542 to 0.99689, saving model to human_Rat3.h2
+Epoch 107/200
+14254/14254 [==============================] - 7s 481us/step - loss: 0.1693 - softmax_loss: 0.0795 - l2_loss_loss: 0.2995 - softmax_acc: 0.9999 - val_loss: 1.9078 - val_softmax_loss: 1.7865 - val_l2_loss_loss: 0.4042 - val_softmax_acc: 0.9903
+
+Epoch 00107: val_softmax_acc did not improve from 0.99689
+Epoch 108/200
+14254/14254 [==============================] - 7s 481us/step - loss: 0.1508 - softmax_loss: 0.0687 - l2_loss_loss: 0.2739 - softmax_acc: 1.0000 - val_loss: 2.1740 - val_softmax_loss: 2.0659 - val_l2_loss_loss: 0.3603 - val_softmax_acc: 0.9892
+
+Epoch 00108: val_softmax_acc did not improve from 0.99689
+Epoch 109/200
+14254/14254 [==============================] - 7s 480us/step - loss: 0.1540 - softmax_loss: 0.0734 - l2_loss_loss: 0.2689 - softmax_acc: 1.0000 - val_loss: 1.2801 - val_softmax_loss: 1.1471 - val_l2_loss_loss: 0.4432 - val_softmax_acc: 0.9941
+
+Epoch 00109: val_softmax_acc did not improve from 0.99689
+Epoch 110/200
+14254/14254 [==============================] - 7s 481us/step - loss: 0.1602 - softmax_loss: 0.0776 - l2_loss_loss: 0.2753 - softmax_acc: 1.0000 - val_loss: 1.1593 - val_softmax_loss: 1.0366 - val_l2_loss_loss: 0.4089 - val_softmax_acc: 0.9944
+
+Epoch 00110: val_softmax_acc did not improve from 0.99689
+Epoch 111/200
+14254/14254 [==============================] - 7s 487us/step - loss: 0.1344 - softmax_loss: 0.0598 - l2_loss_loss: 0.2487 - softmax_acc: 1.0000 - val_loss: 1.2955 - val_softmax_loss: 1.1748 - val_l2_loss_loss: 0.4023 - val_softmax_acc: 0.9939
+
+Epoch 00111: val_softmax_acc did not improve from 0.99689
+Epoch 112/200
+14254/14254 [==============================] - 7s 482us/step - loss: 0.1316 - softmax_loss: 0.0589 - l2_loss_loss: 0.2423 - softmax_acc: 1.0000 - val_loss: 1.0459 - val_softmax_loss: 0.9003 - val_l2_loss_loss: 0.4852 - val_softmax_acc: 0.9951
+
+Epoch 00112: val_softmax_acc did not improve from 0.99689
+Epoch 113/200
+14254/14254 [==============================] - 7s 484us/step - loss: 0.1294 - softmax_loss: 0.0566 - l2_loss_loss: 0.2426 - softmax_acc: 1.0000 - val_loss: 1.4287 - val_softmax_loss: 1.3233 - val_l2_loss_loss: 0.3511 - val_softmax_acc: 0.9928
+
+Epoch 00113: val_softmax_acc did not improve from 0.99689
+Epoch 114/200
+14254/14254 [==============================] - 7s 486us/step - loss: 0.1316 - softmax_loss: 0.0615 - l2_loss_loss: 0.2339 - softmax_acc: 1.0000 - val_loss: 2.7100 - val_softmax_loss: 2.6164 - val_l2_loss_loss: 0.3123 - val_softmax_acc: 0.9866
+
+Epoch 00114: val_softmax_acc did not improve from 0.99689
+Epoch 115/200
+14254/14254 [==============================] - 7s 485us/step - loss: 0.1426 - softmax_loss: 0.0700 - l2_loss_loss: 0.2419 - softmax_acc: 1.0000 - val_loss: 1.1039 - val_softmax_loss: 0.9951 - val_l2_loss_loss: 0.3625 - val_softmax_acc: 0.9951
+
+Epoch 00115: val_softmax_acc did not improve from 0.99689
+Epoch 116/200
+14254/14254 [==============================] - 7s 483us/step - loss: 0.1172 - softmax_loss: 0.0516 - l2_loss_loss: 0.2184 - softmax_acc: 1.0000 - val_loss: 1.0646 - val_softmax_loss: 0.9627 - val_l2_loss_loss: 0.3396 - val_softmax_acc: 0.9953
+
+Epoch 00116: val_softmax_acc did not improve from 0.99689
+Epoch 117/200
+14254/14254 [==============================] - 7s 481us/step - loss: 0.1177 - softmax_loss: 0.0517 - l2_loss_loss: 0.2202 - softmax_acc: 1.0000 - val_loss: 0.9067 - val_softmax_loss: 0.8044 - val_l2_loss_loss: 0.3410 - val_softmax_acc: 0.9957
+
+Epoch 00117: val_softmax_acc did not improve from 0.99689
+Epoch 118/200
+14254/14254 [==============================] - 7s 482us/step - loss: 0.1087 - softmax_loss: 0.0464 - l2_loss_loss: 0.2076 - softmax_acc: 1.0000 - val_loss: 1.7637 - val_softmax_loss: 1.6747 - val_l2_loss_loss: 0.2966 - val_softmax_acc: 0.9917
+
+Epoch 00118: val_softmax_acc did not improve from 0.99689
+Epoch 119/200
+14254/14254 [==============================] - 7s 482us/step - loss: 0.1066 - softmax_loss: 0.0461 - l2_loss_loss: 0.2017 - softmax_acc: 1.0000 - val_loss: 1.7677 - val_softmax_loss: 1.6743 - val_l2_loss_loss: 0.3113 - val_softmax_acc: 0.9918
+
+Epoch 00119: val_softmax_acc did not improve from 0.99689
+Epoch 120/200
+14254/14254 [==============================] - 7s 483us/step - loss: 0.1025 - softmax_loss: 0.0432 - l2_loss_loss: 0.1977 - softmax_acc: 0.9999 - val_loss: 1.5380 - val_softmax_loss: 1.4544 - val_l2_loss_loss: 0.2786 - val_softmax_acc: 0.9923
+
+Epoch 00120: val_softmax_acc did not improve from 0.99689
+Epoch 121/200
+14254/14254 [==============================] - 7s 481us/step - loss: 0.0938 - softmax_loss: 0.0379 - l2_loss_loss: 0.1862 - softmax_acc: 1.0000 - val_loss: 1.9422 - val_softmax_loss: 1.8595 - val_l2_loss_loss: 0.2757 - val_softmax_acc: 0.9899
+
+Epoch 00121: val_softmax_acc did not improve from 0.99689
+Epoch 122/200
+14254/14254 [==============================] - 7s 492us/step - loss: 0.0911 - softmax_loss: 0.0366 - l2_loss_loss: 0.1817 - softmax_acc: 0.9999 - val_loss: 1.2146 - val_softmax_loss: 1.1357 - val_l2_loss_loss: 0.2630 - val_softmax_acc: 0.9939
+
+Epoch 00122: val_softmax_acc did not improve from 0.99689
+Epoch 123/200
+14254/14254 [==============================] - 7s 500us/step - loss: 0.0986 - softmax_loss: 0.0437 - l2_loss_loss: 0.1830 - softmax_acc: 0.9999 - val_loss: 1.2799 - val_softmax_loss: 1.1957 - val_l2_loss_loss: 0.2804 - val_softmax_acc: 0.9931
+
+Epoch 00123: val_softmax_acc did not improve from 0.99689
+Epoch 124/200
+14254/14254 [==============================] - 7s 499us/step - loss: 0.0982 - softmax_loss: 0.0421 - l2_loss_loss: 0.1868 - softmax_acc: 1.0000 - val_loss: 3.2298 - val_softmax_loss: 3.1371 - val_l2_loss_loss: 0.3089 - val_softmax_acc: 0.9835
+
+Epoch 00124: val_softmax_acc did not improve from 0.99689
+Epoch 125/200
+14254/14254 [==============================] - 7s 506us/step - loss: 0.0936 - softmax_loss: 0.0386 - l2_loss_loss: 0.1832 - softmax_acc: 1.0000 - val_loss: 0.8469 - val_softmax_loss: 0.7628 - val_l2_loss_loss: 0.2806 - val_softmax_acc: 0.9957
+
+Epoch 00125: val_softmax_acc did not improve from 0.99689
+Epoch 126/200
+14254/14254 [==============================] - 7s 490us/step - loss: 0.0895 - softmax_loss: 0.0372 - l2_loss_loss: 0.1741 - softmax_acc: 1.0000 - val_loss: 1.3018 - val_softmax_loss: 1.2194 - val_l2_loss_loss: 0.2748 - val_softmax_acc: 0.9931
+
+Epoch 00126: val_softmax_acc did not improve from 0.99689
+Epoch 127/200
+14254/14254 [==============================] - 7s 486us/step - loss: 0.1234 - softmax_loss: 0.0586 - l2_loss_loss: 0.2160 - softmax_acc: 0.9999 - val_loss: 1.0408 - val_softmax_loss: 0.9588 - val_l2_loss_loss: 0.2734 - val_softmax_acc: 0.9949
+
+Epoch 00127: val_softmax_acc did not improve from 0.99689
+Epoch 128/200
+14254/14254 [==============================] - 7s 483us/step - loss: 0.0795 - softmax_loss: 0.0286 - l2_loss_loss: 0.1696 - softmax_acc: 1.0000 - val_loss: 1.3856 - val_softmax_loss: 1.3074 - val_l2_loss_loss: 0.2605 - val_softmax_acc: 0.9930
+
+Epoch 00128: val_softmax_acc did not improve from 0.99689
+Epoch 129/200
+14254/14254 [==============================] - 7s 485us/step - loss: 0.0728 - softmax_loss: 0.0248 - l2_loss_loss: 0.1600 - softmax_acc: 1.0000 - val_loss: 1.0722 - val_softmax_loss: 0.9943 - val_l2_loss_loss: 0.2597 - val_softmax_acc: 0.9944
+
+Epoch 00129: val_softmax_acc did not improve from 0.99689
+Epoch 130/200
+14254/14254 [==============================] - 7s 488us/step - loss: 0.0722 - softmax_loss: 0.0257 - l2_loss_loss: 0.1549 - softmax_acc: 1.0000 - val_loss: 1.1996 - val_softmax_loss: 1.1250 - val_l2_loss_loss: 0.2487 - val_softmax_acc: 0.9933
+
+Epoch 00130: val_softmax_acc did not improve from 0.99689
+Epoch 131/200
+14254/14254 [==============================] - 7s 484us/step - loss: 0.0719 - softmax_loss: 0.0249 - l2_loss_loss: 0.1567 - softmax_acc: 1.0000 - val_loss: 1.4596 - val_softmax_loss: 1.3843 - val_l2_loss_loss: 0.2510 - val_softmax_acc: 0.9918
+
+Epoch 00131: val_softmax_acc did not improve from 0.99689
+Epoch 132/200
+14254/14254 [==============================] - 7s 487us/step - loss: 0.0708 - softmax_loss: 0.0249 - l2_loss_loss: 0.1528 - softmax_acc: 1.0000 - val_loss: 1.2107 - val_softmax_loss: 1.1368 - val_l2_loss_loss: 0.2462 - val_softmax_acc: 0.9935
+
+Epoch 00132: val_softmax_acc did not improve from 0.99689
+Epoch 133/200
+14254/14254 [==============================] - 7s 485us/step - loss: 0.0656 - softmax_loss: 0.0226 - l2_loss_loss: 0.1434 - softmax_acc: 1.0000 - val_loss: 1.1588 - val_softmax_loss: 1.0809 - val_l2_loss_loss: 0.2598 - val_softmax_acc: 0.9939
+
+Epoch 00133: val_softmax_acc did not improve from 0.99689
+Epoch 134/200
+14254/14254 [==============================] - 7s 486us/step - loss: 0.0637 - softmax_loss: 0.0200 - l2_loss_loss: 0.1457 - softmax_acc: 1.0000 - val_loss: 1.1288 - val_softmax_loss: 1.0574 - val_l2_loss_loss: 0.2380 - val_softmax_acc: 0.9939
+
+Epoch 00134: val_softmax_acc did not improve from 0.99689
+Epoch 135/200
+14254/14254 [==============================] - 7s 483us/step - loss: 0.0584 - softmax_loss: 0.0180 - l2_loss_loss: 0.1346 - softmax_acc: 1.0000 - val_loss: 0.5344 - val_softmax_loss: 0.4593 - val_l2_loss_loss: 0.2503 - val_softmax_acc: 0.9984
+
+Epoch 00135: val_softmax_acc improved from 0.99689 to 0.99836, saving model to human_Rat3.h2
+Epoch 136/200
+14254/14254 [==============================] - 7s 479us/step - loss: 0.0641 - softmax_loss: 0.0218 - l2_loss_loss: 0.1412 - softmax_acc: 1.0000 - val_loss: 1.1450 - val_softmax_loss: 1.0738 - val_l2_loss_loss: 0.2374 - val_softmax_acc: 0.9930
+
+Epoch 00136: val_softmax_acc did not improve from 0.99836
+Epoch 137/200
+14254/14254 [==============================] - 7s 493us/step - loss: 0.0578 - softmax_loss: 0.0178 - l2_loss_loss: 0.1332 - softmax_acc: 1.0000 - val_loss: 0.9324 - val_softmax_loss: 0.8643 - val_l2_loss_loss: 0.2271 - val_softmax_acc: 0.9948
+
+Epoch 00137: val_softmax_acc did not improve from 0.99836
+Epoch 138/200
+14254/14254 [==============================] - 7s 486us/step - loss: 0.0598 - softmax_loss: 0.0188 - l2_loss_loss: 0.1365 - softmax_acc: 1.0000 - val_loss: 1.0564 - val_softmax_loss: 0.9857 - val_l2_loss_loss: 0.2357 - val_softmax_acc: 0.9941
+
+Epoch 00138: val_softmax_acc did not improve from 0.99836
+Epoch 139/200
+14254/14254 [==============================] - 7s 488us/step - loss: 0.0952 - softmax_loss: 0.0456 - l2_loss_loss: 0.1654 - softmax_acc: 0.9999 - val_loss: 0.2777 - val_softmax_loss: 0.1805 - val_l2_loss_loss: 0.3241 - val_softmax_acc: 0.9992
+
+Epoch 00139: val_softmax_acc improved from 0.99836 to 0.99918, saving model to human_Rat3.h2
+Epoch 140/200
+14254/14254 [==============================] - 7s 484us/step - loss: 0.2601 - softmax_loss: 0.1754 - l2_loss_loss: 0.2824 - softmax_acc: 0.9994 - val_loss: 1.4397 - val_softmax_loss: 1.3135 - val_l2_loss_loss: 0.4207 - val_softmax_acc: 0.9928
+
+Epoch 00140: val_softmax_acc did not improve from 0.99918
+Epoch 141/200
+14254/14254 [==============================] - 7s 478us/step - loss: 0.1016 - softmax_loss: 0.0455 - l2_loss_loss: 0.1872 - softmax_acc: 0.9999 - val_loss: 3.6126 - val_softmax_loss: 3.4960 - val_l2_loss_loss: 0.3885 - val_softmax_acc: 0.9823
+
+Epoch 00141: val_softmax_acc did not improve from 0.99918
+Epoch 142/200
+14254/14254 [==============================] - 7s 486us/step - loss: 0.0737 - softmax_loss: 0.0236 - l2_loss_loss: 0.1672 - softmax_acc: 1.0000 - val_loss: 1.7570 - val_softmax_loss: 1.6695 - val_l2_loss_loss: 0.2915 - val_softmax_acc: 0.9908
+
+Epoch 00142: val_softmax_acc did not improve from 0.99918
+Epoch 143/200
+14254/14254 [==============================] - 7s 482us/step - loss: 0.0610 - softmax_loss: 0.0161 - l2_loss_loss: 0.1494 - softmax_acc: 1.0000 - val_loss: 1.5216 - val_softmax_loss: 1.4383 - val_l2_loss_loss: 0.2777 - val_softmax_acc: 0.9915
+
+Epoch 00143: val_softmax_acc did not improve from 0.99918
+Epoch 144/200
+14254/14254 [==============================] - 7s 481us/step - loss: 0.0684 - softmax_loss: 0.0232 - l2_loss_loss: 0.1508 - softmax_acc: 1.0000 - val_loss: 0.9172 - val_softmax_loss: 0.8391 - val_l2_loss_loss: 0.2602 - val_softmax_acc: 0.9957
+
+Epoch 00144: val_softmax_acc did not improve from 0.99918
+Epoch 145/200
+14254/14254 [==============================] - 7s 483us/step - loss: 0.0569 - softmax_loss: 0.0140 - l2_loss_loss: 0.1428 - softmax_acc: 1.0000 - val_loss: 1.0727 - val_softmax_loss: 0.9976 - val_l2_loss_loss: 0.2502 - val_softmax_acc: 0.9949
+
+Epoch 00145: val_softmax_acc did not improve from 0.99918
+Epoch 146/200
+14254/14254 [==============================] - 7s 488us/step - loss: 0.0570 - softmax_loss: 0.0151 - l2_loss_loss: 0.1397 - softmax_acc: 1.0000 - val_loss: 0.7060 - val_softmax_loss: 0.6305 - val_l2_loss_loss: 0.2515 - val_softmax_acc: 0.9964
+
+Epoch 00146: val_softmax_acc did not improve from 0.99918
+Epoch 147/200
+14254/14254 [==============================] - 7s 495us/step - loss: 0.0532 - softmax_loss: 0.0131 - l2_loss_loss: 0.1339 - softmax_acc: 1.0000 - val_loss: 1.2167 - val_softmax_loss: 1.1377 - val_l2_loss_loss: 0.2635 - val_softmax_acc: 0.9939
+
+Epoch 00147: val_softmax_acc did not improve from 0.99918
+Epoch 148/200
+14254/14254 [==============================] - 7s 486us/step - loss: 0.0526 - softmax_loss: 0.0130 - l2_loss_loss: 0.1320 - softmax_acc: 1.0000 - val_loss: 0.9396 - val_softmax_loss: 0.8676 - val_l2_loss_loss: 0.2403 - val_softmax_acc: 0.9957
+
+Epoch 00148: val_softmax_acc did not improve from 0.99918
+Epoch 149/200
+14254/14254 [==============================] - 7s 491us/step - loss: 0.0529 - softmax_loss: 0.0140 - l2_loss_loss: 0.1299 - softmax_acc: 1.0000 - val_loss: 0.6020 - val_softmax_loss: 0.5329 - val_l2_loss_loss: 0.2302 - val_softmax_acc: 0.9969
+
+Epoch 00149: val_softmax_acc did not improve from 0.99918
+Epoch 150/200
+14254/14254 [==============================] - 7s 488us/step - loss: 0.0480 - softmax_loss: 0.0109 - l2_loss_loss: 0.1238 - softmax_acc: 1.0000 - val_loss: 0.9686 - val_softmax_loss: 0.8955 - val_l2_loss_loss: 0.2438 - val_softmax_acc: 0.9956
+
+Epoch 00150: val_softmax_acc did not improve from 0.99918
+Epoch 151/200
+14254/14254 [==============================] - 7s 485us/step - loss: 0.0474 - softmax_loss: 0.0108 - l2_loss_loss: 0.1219 - softmax_acc: 1.0000 - val_loss: 0.9785 - val_softmax_loss: 0.9050 - val_l2_loss_loss: 0.2450 - val_softmax_acc: 0.9953
+
+Epoch 00151: val_softmax_acc did not improve from 0.99918
+Epoch 152/200
+14254/14254 [==============================] - 7s 483us/step - loss: 0.0470 - softmax_loss: 0.0109 - l2_loss_loss: 0.1202 - softmax_acc: 1.0000 - val_loss: 0.7084 - val_softmax_loss: 0.6389 - val_l2_loss_loss: 0.2315 - val_softmax_acc: 0.9969
+
+Epoch 00152: val_softmax_acc did not improve from 0.99918
+Epoch 153/200
+14254/14254 [==============================] - 7s 488us/step - loss: 0.0487 - softmax_loss: 0.0121 - l2_loss_loss: 0.1218 - softmax_acc: 1.0000 - val_loss: 1.1496 - val_softmax_loss: 1.0757 - val_l2_loss_loss: 0.2462 - val_softmax_acc: 0.9941
+
+Epoch 00153: val_softmax_acc did not improve from 0.99918
+Epoch 154/200
+14254/14254 [==============================] - 7s 489us/step - loss: 0.0460 - softmax_loss: 0.0109 - l2_loss_loss: 0.1170 - softmax_acc: 1.0000 - val_loss: 1.4494 - val_softmax_loss: 1.3701 - val_l2_loss_loss: 0.2644 - val_softmax_acc: 0.9923
+
+Epoch 00154: val_softmax_acc did not improve from 0.99918
+Epoch 155/200
+14254/14254 [==============================] - 7s 496us/step - loss: 0.0444 - softmax_loss: 0.0093 - l2_loss_loss: 0.1171 - softmax_acc: 1.0000 - val_loss: 0.8375 - val_softmax_loss: 0.7674 - val_l2_loss_loss: 0.2336 - val_softmax_acc: 0.9961
+
+Epoch 00155: val_softmax_acc did not improve from 0.99918
+Epoch 156/200
+14254/14254 [==============================] - 7s 523us/step - loss: 0.0537 - softmax_loss: 0.0174 - l2_loss_loss: 0.1208 - softmax_acc: 1.0000 - val_loss: 0.5774 - val_softmax_loss: 0.5065 - val_l2_loss_loss: 0.2363 - val_softmax_acc: 0.9972
+
+Epoch 00156: val_softmax_acc did not improve from 0.99918
+Epoch 157/200
+14254/14254 [==============================] - 7s 505us/step - loss: 0.0447 - softmax_loss: 0.0099 - l2_loss_loss: 0.1158 - softmax_acc: 1.0000 - val_loss: 0.5966 - val_softmax_loss: 0.5296 - val_l2_loss_loss: 0.2231 - val_softmax_acc: 0.9971
+
+Epoch 00157: val_softmax_acc did not improve from 0.99918
+Epoch 158/200
+14254/14254 [==============================] - 7s 491us/step - loss: 0.0482 - softmax_loss: 0.0125 - l2_loss_loss: 0.1190 - softmax_acc: 1.0000 - val_loss: 1.1369 - val_softmax_loss: 1.0577 - val_l2_loss_loss: 0.2638 - val_softmax_acc: 0.9948
+
+Epoch 00158: val_softmax_acc did not improve from 0.99918
+Epoch 159/200
+14254/14254 [==============================] - 7s 499us/step - loss: 0.0451 - softmax_loss: 0.0103 - l2_loss_loss: 0.1161 - softmax_acc: 1.0000 - val_loss: 1.0631 - val_softmax_loss: 0.9885 - val_l2_loss_loss: 0.2488 - val_softmax_acc: 0.9946
+
+Epoch 00159: val_softmax_acc did not improve from 0.99918
+Epoch 160/200
+14254/14254 [==============================] - 7s 504us/step - loss: 0.0411 - softmax_loss: 0.0084 - l2_loss_loss: 0.1088 - softmax_acc: 1.0000 - val_loss: 1.0095 - val_softmax_loss: 0.9374 - val_l2_loss_loss: 0.2402 - val_softmax_acc: 0.9946
+
+Epoch 00160: val_softmax_acc did not improve from 0.99918
+Epoch 161/200
+14254/14254 [==============================] - 7s 521us/step - loss: 0.0432 - softmax_loss: 0.0102 - l2_loss_loss: 0.1100 - softmax_acc: 1.0000 - val_loss: 0.5716 - val_softmax_loss: 0.5030 - val_l2_loss_loss: 0.2287 - val_softmax_acc: 0.9974
+
+Epoch 00161: val_softmax_acc did not improve from 0.99918
+Epoch 162/200
+14254/14254 [==============================] - 7s 507us/step - loss: 0.0388 - softmax_loss: 0.0072 - l2_loss_loss: 0.1053 - softmax_acc: 1.0000 - val_loss: 0.8079 - val_softmax_loss: 0.7376 - val_l2_loss_loss: 0.2343 - val_softmax_acc: 0.9959
+
+Epoch 00162: val_softmax_acc did not improve from 0.99918
+Epoch 163/200
+14254/14254 [==============================] - 7s 498us/step - loss: 0.0411 - softmax_loss: 0.0086 - l2_loss_loss: 0.1084 - softmax_acc: 1.0000 - val_loss: 0.7675 - val_softmax_loss: 0.6971 - val_l2_loss_loss: 0.2344 - val_softmax_acc: 0.9964
+
+Epoch 00163: val_softmax_acc did not improve from 0.99918
+Epoch 164/200
+14254/14254 [==============================] - 7s 521us/step - loss: 0.0379 - softmax_loss: 0.0070 - l2_loss_loss: 0.1029 - softmax_acc: 1.0000 - val_loss: 0.9461 - val_softmax_loss: 0.8756 - val_l2_loss_loss: 0.2350 - val_softmax_acc: 0.9957
+
+Epoch 00164: val_softmax_acc did not improve from 0.99918
+Epoch 165/200
+14254/14254 [==============================] - 7s 509us/step - loss: 0.0366 - softmax_loss: 0.0064 - l2_loss_loss: 0.1006 - softmax_acc: 1.0000 - val_loss: 0.6540 - val_softmax_loss: 0.5902 - val_l2_loss_loss: 0.2126 - val_softmax_acc: 0.9966
+
+Epoch 00165: val_softmax_acc did not improve from 0.99918
+Epoch 166/200
+14254/14254 [==============================] - 7s 489us/step - loss: 0.0362 - softmax_loss: 0.0063 - l2_loss_loss: 0.0996 - softmax_acc: 1.0000 - val_loss: 0.7349 - val_softmax_loss: 0.6691 - val_l2_loss_loss: 0.2192 - val_softmax_acc: 0.9966
+
+Epoch 00166: val_softmax_acc did not improve from 0.99918
+Epoch 167/200
+14254/14254 [==============================] - 7s 487us/step - loss: 0.0352 - softmax_loss: 0.0061 - l2_loss_loss: 0.0969 - softmax_acc: 1.0000 - val_loss: 0.7502 - val_softmax_loss: 0.6818 - val_l2_loss_loss: 0.2279 - val_softmax_acc: 0.9962
+
+Epoch 00167: val_softmax_acc did not improve from 0.99918
+Epoch 168/200
+14254/14254 [==============================] - 7s 485us/step - loss: 0.0343 - softmax_loss: 0.0059 - l2_loss_loss: 0.0945 - softmax_acc: 1.0000 - val_loss: 0.4800 - val_softmax_loss: 0.4220 - val_l2_loss_loss: 0.1934 - val_softmax_acc: 0.9980
+
+Epoch 00168: val_softmax_acc did not improve from 0.99918
+Epoch 169/200
+14254/14254 [==============================] - 7s 497us/step - loss: 0.0369 - softmax_loss: 0.0075 - l2_loss_loss: 0.0982 - softmax_acc: 1.0000 - val_loss: 0.5482 - val_softmax_loss: 0.4823 - val_l2_loss_loss: 0.2195 - val_softmax_acc: 0.9975
+
+Epoch 00169: val_softmax_acc did not improve from 0.99918
+Epoch 170/200
+14254/14254 [==============================] - 7s 489us/step - loss: 0.0338 - softmax_loss: 0.0055 - l2_loss_loss: 0.0942 - softmax_acc: 1.0000 - val_loss: 0.5040 - val_softmax_loss: 0.4441 - val_l2_loss_loss: 0.1997 - val_softmax_acc: 0.9982
+
+Epoch 00170: val_softmax_acc did not improve from 0.99918
+Epoch 171/200
+14254/14254 [==============================] - 8s 528us/step - loss: 0.0345 - softmax_loss: 0.0061 - l2_loss_loss: 0.0945 - softmax_acc: 1.0000 - val_loss: 0.5557 - val_softmax_loss: 0.4916 - val_l2_loss_loss: 0.2134 - val_softmax_acc: 0.9975
+
+Epoch 00171: val_softmax_acc did not improve from 0.99918
+Epoch 172/200
+14254/14254 [==============================] - 7s 515us/step - loss: 0.0369 - softmax_loss: 0.0073 - l2_loss_loss: 0.0986 - softmax_acc: 1.0000 - val_loss: 0.5783 - val_softmax_loss: 0.5172 - val_l2_loss_loss: 0.2038 - val_softmax_acc: 0.9974
+
+Epoch 00172: val_softmax_acc did not improve from 0.99918
+Epoch 173/200
+14254/14254 [==============================] - 7s 519us/step - loss: 0.0323 - softmax_loss: 0.0050 - l2_loss_loss: 0.0911 - softmax_acc: 1.0000 - val_loss: 0.6554 - val_softmax_loss: 0.5926 - val_l2_loss_loss: 0.2094 - val_softmax_acc: 0.9972
+
+Epoch 00173: val_softmax_acc did not improve from 0.99918
+Epoch 174/200
+14254/14254 [==============================] - 7s 497us/step - loss: 0.0326 - softmax_loss: 0.0058 - l2_loss_loss: 0.0895 - softmax_acc: 1.0000 - val_loss: 1.0073 - val_softmax_loss: 0.9353 - val_l2_loss_loss: 0.2400 - val_softmax_acc: 0.9953
+
+Epoch 00174: val_softmax_acc did not improve from 0.99918
+Epoch 175/200
+14254/14254 [==============================] - 7s 489us/step - loss: 0.0314 - softmax_loss: 0.0050 - l2_loss_loss: 0.0882 - softmax_acc: 1.0000 - val_loss: 0.7213 - val_softmax_loss: 0.6558 - val_l2_loss_loss: 0.2182 - val_softmax_acc: 0.9971
+
+Epoch 00175: val_softmax_acc did not improve from 0.99918
+Epoch 176/200
+14254/14254 [==============================] - 7s 493us/step - loss: 0.0442 - softmax_loss: 0.0120 - l2_loss_loss: 0.1074 - softmax_acc: 1.0000 - val_loss: 0.6955 - val_softmax_loss: 0.6300 - val_l2_loss_loss: 0.2183 - val_softmax_acc: 0.9967
+
+Epoch 00176: val_softmax_acc did not improve from 0.99918
+Epoch 177/200
+14254/14254 [==============================] - 7s 488us/step - loss: 0.0370 - softmax_loss: 0.0078 - l2_loss_loss: 0.0974 - softmax_acc: 1.0000 - val_loss: 0.4823 - val_softmax_loss: 0.4200 - val_l2_loss_loss: 0.2076 - val_softmax_acc: 0.9982
+
+Epoch 00177: val_softmax_acc did not improve from 0.99918
+Epoch 178/200
+14254/14254 [==============================] - 7s 488us/step - loss: 0.0364 - softmax_loss: 0.0074 - l2_loss_loss: 0.0966 - softmax_acc: 1.0000 - val_loss: 0.5718 - val_softmax_loss: 0.5091 - val_l2_loss_loss: 0.2088 - val_softmax_acc: 0.9975
+
+Epoch 00178: val_softmax_acc did not improve from 0.99918
+Epoch 179/200
+14254/14254 [==============================] - 7s 490us/step - loss: 0.0327 - softmax_loss: 0.0056 - l2_loss_loss: 0.0901 - softmax_acc: 1.0000 - val_loss: 0.5639 - val_softmax_loss: 0.5042 - val_l2_loss_loss: 0.1990 - val_softmax_acc: 0.9979
+
+Epoch 00179: val_softmax_acc did not improve from 0.99918
+Epoch 180/200
+14254/14254 [==============================] - 7s 489us/step - loss: 0.0315 - softmax_loss: 0.0051 - l2_loss_loss: 0.0879 - softmax_acc: 1.0000 - val_loss: 0.5114 - val_softmax_loss: 0.4522 - val_l2_loss_loss: 0.1974 - val_softmax_acc: 0.9977
+
+Epoch 00180: val_softmax_acc did not improve from 0.99918
+Epoch 181/200
+14254/14254 [==============================] - 7s 488us/step - loss: 0.0301 - softmax_loss: 0.0045 - l2_loss_loss: 0.0853 - softmax_acc: 1.0000 - val_loss: 0.5675 - val_softmax_loss: 0.5065 - val_l2_loss_loss: 0.2035 - val_softmax_acc: 0.9977
+
+Epoch 00181: val_softmax_acc did not improve from 0.99918
+Epoch 182/200
+14254/14254 [==============================] - 7s 486us/step - loss: 0.0645 - softmax_loss: 0.0309 - l2_loss_loss: 0.1118 - softmax_acc: 0.9999 - val_loss: 0.3720 - val_softmax_loss: 0.3040 - val_l2_loss_loss: 0.2268 - val_softmax_acc: 0.9984
+
+Epoch 00182: val_softmax_acc did not improve from 0.99918
+Epoch 183/200
+14254/14254 [==============================] - 7s 488us/step - loss: 0.0778 - softmax_loss: 0.0355 - l2_loss_loss: 0.1410 - softmax_acc: 0.9999 - val_loss: 0.8181 - val_softmax_loss: 0.7415 - val_l2_loss_loss: 0.2553 - val_softmax_acc: 0.9962
+
+Epoch 00183: val_softmax_acc did not improve from 0.99918
+Epoch 184/200
+14254/14254 [==============================] - 7s 482us/step - loss: 0.0696 - softmax_loss: 0.0291 - l2_loss_loss: 0.1349 - softmax_acc: 0.9999 - val_loss: 1.1914 - val_softmax_loss: 1.1104 - val_l2_loss_loss: 0.2699 - val_softmax_acc: 0.9944
+
+Epoch 00184: val_softmax_acc did not improve from 0.99918
+Epoch 185/200
+14254/14254 [==============================] - 7s 483us/step - loss: 0.0620 - softmax_loss: 0.0235 - l2_loss_loss: 0.1285 - softmax_acc: 0.9999 - val_loss: 0.4469 - val_softmax_loss: 0.3791 - val_l2_loss_loss: 0.2261 - val_softmax_acc: 0.9982
+
+Epoch 00185: val_softmax_acc did not improve from 0.99918
+Epoch 186/200
+14254/14254 [==============================] - 7s 484us/step - loss: 0.0435 - softmax_loss: 0.0093 - l2_loss_loss: 0.1141 - softmax_acc: 1.0000 - val_loss: 0.6537 - val_softmax_loss: 0.5843 - val_l2_loss_loss: 0.2313 - val_softmax_acc: 0.9971
+
+Epoch 00186: val_softmax_acc did not improve from 0.99918
+Epoch 187/200
+14254/14254 [==============================] - 7s 487us/step - loss: 0.0441 - softmax_loss: 0.0098 - l2_loss_loss: 0.1141 - softmax_acc: 1.0000 - val_loss: 0.7746 - val_softmax_loss: 0.7059 - val_l2_loss_loss: 0.2290 - val_softmax_acc: 0.9971
+
+Epoch 00187: val_softmax_acc did not improve from 0.99918
+Epoch 188/200
+14254/14254 [==============================] - 7s 485us/step - loss: 0.0389 - softmax_loss: 0.0081 - l2_loss_loss: 0.1028 - softmax_acc: 1.0000 - val_loss: 0.8334 - val_softmax_loss: 0.7611 - val_l2_loss_loss: 0.2411 - val_softmax_acc: 0.9964
+
+Epoch 00188: val_softmax_acc did not improve from 0.99918
+Epoch 189/200
+14254/14254 [==============================] - 7s 492us/step - loss: 0.0331 - softmax_loss: 0.0042 - l2_loss_loss: 0.0965 - softmax_acc: 1.0000 - val_loss: 0.5835 - val_softmax_loss: 0.5185 - val_l2_loss_loss: 0.2165 - val_softmax_acc: 0.9977
+
+Epoch 00189: val_softmax_acc did not improve from 0.99918
+Epoch 190/200
+14254/14254 [==============================] - 7s 488us/step - loss: 0.0342 - softmax_loss: 0.0053 - l2_loss_loss: 0.0965 - softmax_acc: 1.0000 - val_loss: 0.6198 - val_softmax_loss: 0.5530 - val_l2_loss_loss: 0.2225 - val_softmax_acc: 0.9975
+
+Epoch 00190: val_softmax_acc did not improve from 0.99918
+Epoch 191/200
+14254/14254 [==============================] - 7s 489us/step - loss: 0.0315 - softmax_loss: 0.0040 - l2_loss_loss: 0.0916 - softmax_acc: 1.0000 - val_loss: 0.5478 - val_softmax_loss: 0.4846 - val_l2_loss_loss: 0.2106 - val_softmax_acc: 0.9979
+
+Epoch 00191: val_softmax_acc did not improve from 0.99918
+Epoch 192/200
+14254/14254 [==============================] - 7s 484us/step - loss: 0.0299 - softmax_loss: 0.0035 - l2_loss_loss: 0.0881 - softmax_acc: 1.0000 - val_loss: 0.5814 - val_softmax_loss: 0.5173 - val_l2_loss_loss: 0.2137 - val_softmax_acc: 0.9977
+
+Epoch 00192: val_softmax_acc did not improve from 0.99918
+Epoch 193/200
+14254/14254 [==============================] - 7s 486us/step - loss: 0.0351 - softmax_loss: 0.0066 - l2_loss_loss: 0.0950 - softmax_acc: 1.0000 - val_loss: 0.4707 - val_softmax_loss: 0.4083 - val_l2_loss_loss: 0.2079 - val_softmax_acc: 0.9980
+
+Epoch 00193: val_softmax_acc did not improve from 0.99918
+Epoch 194/200
+14254/14254 [==============================] - 7s 493us/step - loss: 0.0304 - softmax_loss: 0.0041 - l2_loss_loss: 0.0876 - softmax_acc: 1.0000 - val_loss: 0.6312 - val_softmax_loss: 0.5634 - val_l2_loss_loss: 0.2260 - val_softmax_acc: 0.9975
+
+Epoch 00194: val_softmax_acc did not improve from 0.99918
+Epoch 195/200
+14254/14254 [==============================] - 7s 489us/step - loss: 0.0290 - softmax_loss: 0.0033 - l2_loss_loss: 0.0857 - softmax_acc: 1.0000 - val_loss: 0.6751 - val_softmax_loss: 0.6080 - val_l2_loss_loss: 0.2235 - val_softmax_acc: 0.9975
+
+Epoch 00195: val_softmax_acc did not improve from 0.99918
+Epoch 196/200
+14254/14254 [==============================] - 7s 523us/step - loss: 0.0282 - softmax_loss: 0.0030 - l2_loss_loss: 0.0838 - softmax_acc: 1.0000 - val_loss: 0.6508 - val_softmax_loss: 0.5841 - val_l2_loss_loss: 0.2223 - val_softmax_acc: 0.9977
+
+Epoch 00196: val_softmax_acc did not improve from 0.99918
+Epoch 197/200
+14254/14254 [==============================] - 7s 497us/step - loss: 0.0283 - softmax_loss: 0.0034 - l2_loss_loss: 0.0832 - softmax_acc: 1.0000 - val_loss: 0.5891 - val_softmax_loss: 0.5271 - val_l2_loss_loss: 0.2065 - val_softmax_acc: 0.9980
+
+Epoch 00197: val_softmax_acc did not improve from 0.99918
+Epoch 198/200
+14254/14254 [==============================] - 7s 517us/step - loss: 0.0277 - softmax_loss: 0.0033 - l2_loss_loss: 0.0812 - softmax_acc: 1.0000 - val_loss: 0.5220 - val_softmax_loss: 0.4633 - val_l2_loss_loss: 0.1959 - val_softmax_acc: 0.9980
+
+Epoch 00198: val_softmax_acc did not improve from 0.99918
+Epoch 199/200
+14254/14254 [==============================] - 7s 488us/step - loss: 0.0321 - softmax_loss: 0.0062 - l2_loss_loss: 0.0864 - softmax_acc: 1.0000 - val_loss: 0.5783 - val_softmax_loss: 0.5178 - val_l2_loss_loss: 0.2014 - val_softmax_acc: 0.9979
+
+Epoch 00199: val_softmax_acc did not improve from 0.99918
+Epoch 200/200
+14254/14254 [==============================] - 7s 487us/step - loss: 0.0287 - softmax_loss: 0.0038 - l2_loss_loss: 0.0831 - softmax_acc: 1.0000 - val_loss: 0.6105 - val_softmax_loss: 0.5474 - val_l2_loss_loss: 0.2103 - val_softmax_acc: 0.9977
+
+Epoch 00200: val_softmax_acc did not improve from 0.99918
+第0个loss
+type:0,test_acc:0.9982324348210341,0.9964664117831022,0.999113475177305,0.9973451327433628,0.999117387466902
+type:1,test_acc:0.9982324348210341,0.9964664117831022,0.9973568281938326,0.999117387466902,0.9973451327433628

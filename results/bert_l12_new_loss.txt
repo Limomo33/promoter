@@ -1,0 +1,24 @@
+INFO:tensorflow:Restoring parameters from /data1/lrm1/bert-master/result/l12_new_loss/model.ckpt-10000
+INFO:tensorflow:Running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+INFO:tensorflow:Evaluation [10/100]
+INFO:tensorflow:Evaluation [20/100]
+INFO:tensorflow:Evaluation [30/100]
+INFO:tensorflow:Evaluation [40/100]
+INFO:tensorflow:Evaluation [50/100]
+INFO:tensorflow:Evaluation [60/100]
+INFO:tensorflow:Evaluation [70/100]
+INFO:tensorflow:Evaluation [80/100]
+INFO:tensorflow:Evaluation [90/100]
+INFO:tensorflow:Evaluation [100/100]
+INFO:tensorflow:Finished evaluation at 2024-03-04-21:14:53
+INFO:tensorflow:Saving dict for global step 10000: global_step = 10000, loss = 0.19144656, masked_lm_accuracy = 0.94848686, masked_lm_loss = 0.19144608, next_sentence_accuracy = 1.0, next_sentence_loss = 4.3421656e-07
+INFO:tensorflow:Saving 'checkpoint_path' summary for global step 10000: /data1/lrm1/bert-master/result/l12_new_loss/model.ckpt-10000
+INFO:tensorflow:evaluation_loop marked as finished
+INFO:tensorflow:***** Eval results *****
+INFO:tensorflow:  global_step = 10000
+INFO:tensorflow:  loss = 0.19144656
+INFO:tensorflow:  masked_lm_accuracy = 0.94848686
+INFO:tensorflow:  masked_lm_loss = 0.19144608
+INFO:tensorflow:  next_sentence_accuracy = 1.0
+INFO:tensorflow:  next_sentence_loss = 4.3421656e-07
